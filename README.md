@@ -1,7 +1,3 @@
-Here's a simple, professional, and clean placeholder description without the Markdown table clutter:
-
----
-
 ## Placeholders
 
 This plugin provides two simple placeholders for displaying Vulcan violation levels as progress bars:
