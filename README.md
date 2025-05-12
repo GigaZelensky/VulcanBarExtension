@@ -22,7 +22,7 @@ Example usage and output (`%bar_7_20%`):
 &f[&d|||||||&b|||||||||||||&f]
 ```
 
-Example usage:
+Example usage (Vulcan Config):
 
 ```
 format: '%prefix% &f%player% &7failed &f%check% %dev%&7(&fType %type%&7)%dev% &7[&4%vl%&7/&4%max-vl%&7] %bar%'
